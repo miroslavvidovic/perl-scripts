@@ -2,7 +2,7 @@
 
 # perl-scripts
 
-<img src="http://icons.iconarchive.com/icons/franksouza183/fs/512/Mimetypes-text-x-perl-icon.png" height="250px" width="250px">
+<img src="http://icons.iconarchive.com/icons/shrikant-rawa/animals/256/camel-icon.png" height="250px" width="250px">
 
 ##### A collection of small perl scripts for various tasks
 
