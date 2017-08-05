@@ -13,3 +13,6 @@ Generate lorem ipsum text.
 
 ## zvornik-danas
 Get the latest news from a local news website [zvornikdanas](http://www.zvornikdanas.com/).
+
+## yifi-movies
+Get the newest movies from [YIFI](https://yts.ag/browse-movies)
