@@ -9,6 +9,7 @@ use Term::ANSIColor;
 use Text::Wrap;
 use Getopt::Long;
 use Getopt::Long 'HelpMessage';
+use open ':std', ':encoding(UTF-8)';
 
 # my ($weekly, $daily, $monthly) = " ";
 
