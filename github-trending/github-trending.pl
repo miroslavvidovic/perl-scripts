@@ -63,6 +63,10 @@ sub print_format {
         $recentStars = " ";
     } 
 
+    if (!defined $forks) {
+        $forks = 0;
+    } 
+
     separator("-", 80);
 
     print color("blue"),"\n$name\t", color("reset"), color("red"), "$recentStars\n";
