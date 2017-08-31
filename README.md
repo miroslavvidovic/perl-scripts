@@ -11,6 +11,9 @@
 ## lorem
 Generate lorem ipsum text.
 
+## partizan-next
+Next match of FC Partizan Belgrade. Data scraped from the official [website](http://partizan.rs/pocetna/) 
+
 ## zvornik-danas
 Get the latest news from a local news website [zvornikdanas](http://www.zvornikdanas.com/).
 
